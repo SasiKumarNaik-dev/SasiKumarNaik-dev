@@ -16,7 +16,7 @@ Here are some of the projects you'll find in this repository:
 
 
 1. [IPL Dashboard](https://sasiiplinfo.ccbp.tech/):
-   This is the simple page which gives us the information of the recent matches played by the selected teams.
+   This is a simple app which gives us the information of the recent matches played by the selected teams.
    ● Utilized React components, props, conditional rendering, and state updates to create dynamic app.
    ● Router concept applied here to use single page appication.
    ● Enhanced with CSS for a visually appealing design.
