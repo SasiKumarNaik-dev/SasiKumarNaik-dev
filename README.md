@@ -14,13 +14,20 @@ Welcome to my GitHub repository! I'm a recent graduate with a Bachelor's degree 
 
 Here are some of the projects you'll find in this repository:
 
-1. [Emoji Game](https://sasiemojigame.ccbp.tech/):
+
+1. [IPL Dashboard](https://sasiiplinfo.ccbp.tech/):
+   This is the simple page which gives us the information of the recent matches played by the selected teams.
+   ● Utilized React components, props, conditional rendering, and state updates to create dynamic app.
+   ● Router concept applied here to use single page appication.
+   ● Enhanced with CSS for a visually appealing design.
+   Technologies use: React JS, CSS
+3. [Emoji Game](https://sasiemojigame.ccbp.tech/):
  Designed a fun, challenging memory game with randomized emoji clicks.
 ● Utilized React components, props, conditional rendering, and state updates to create dynamic gameplay.
 ● Enhanced with CSS for a visually appealing design.
 Technologies used: React JS, CSS
 
-2. [Todos Application](https://saskumartodo.ccbp.tech/):
+4. [Todos Application](https://saskumartodo.ccbp.tech/):
 A task management solution, designed to make life easier.
 ● Streamlined task management through a combination of HTML, CSS, and Bootstrap for an intuitive
 interface.
@@ -28,7 +35,7 @@ interface.
 ● Secure task persistence with local storage methods, ensuring that your tasks are always available.
 Technologies used: HTML, CSS, JS, Bootstrap
 
-3. [Wikipedia Search Application](https://sasiwiki.ccbp.tech/)
+5. [Wikipedia Search Application](https://sasiwiki.ccbp.tech/)
 A custom wikipedia search application that provides a simplified and intuitive way for users to access and view
 relevant information. With the ability to easily search for and view curated results, users can dive deeper into
 their interests with just a click.
