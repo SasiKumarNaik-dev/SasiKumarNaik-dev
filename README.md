@@ -14,9 +14,8 @@ Welcome to my GitHub repository! I'm a recent graduate with a Bachelor's degree 
 
 Here are some of the projects you'll find in this repository:
 
-1. [NxtTrendz Ecommerce Website](https://ecomsasi.ccbp.tech/login):
+1. [NxtTrendz Ecommerce Website](https://ecomsasi.ccbp.tech/login): *UserName - rahul and password - rahul@2021*
    This is a Ecommerce website that secured with user authentication and displays various products details.
-   UserName - rahul and password - rahul@2021
    ● User authentication was provided and protected routing contepts where used.
    ● Utilized React components, props, conditional rendering, and state updates to create dynamic app.
    ● Router concept applied here to use single page appication.
