@@ -14,7 +14,14 @@ Welcome to my GitHub repository! I'm a recent graduate with a Bachelor's degree 
 
 Here are some of the projects you'll find in this repository:
 
-
+1 [NxtTrendz Ecommerce Website](https://ecomsasi.ccbp.tech/login):
+   This is a Ecommerce website that secured with user authentication and displays various products details.
+   UserName - rahul and password - rahul@2021
+   ● User authentication was provided and protected routing contepts where used.
+   ● Utilized React components, props, conditional rendering, and state updates to create dynamic app.
+   ● Router concept applied here to use single page appication.
+   ● Enhanced with CSS for a visually appealing design.
+   Technologies use: React JS, CSS
 1. [IPL Dashboard](https://sasiiplinfo.ccbp.tech/):
    This is a simple app which gives us the information of the recent matches played by the selected teams.
    ● Utilized React components, props, conditional rendering, and state updates to create dynamic app.
